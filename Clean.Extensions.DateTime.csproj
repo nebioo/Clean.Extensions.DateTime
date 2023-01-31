@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <PackageId>Clean.Extensions.DateTime</PackageId>
+    <Authors>Mevlüt Çifcibaşı</Authors>
+    <PackageDescription>DateTime Extensions</PackageDescription>
+    <RepositoryUrl>https://github.com/nebioo/Clean.Extensions.DateTime</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

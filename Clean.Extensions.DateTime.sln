@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Extensions.DateTime", "Clean.Extensions.DateTime.csproj", "{C44982EE-F046-413E-AC1F-D693FF9FF43E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Extensions.DateTime", "Clean.Extensions.DateTime\Clean.Extensions.DateTime.csproj", "{C44982EE-F046-413E-AC1F-D693FF9FF43E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

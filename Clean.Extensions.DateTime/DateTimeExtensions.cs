@@ -29,6 +29,4 @@ public static class DateTimeExtensions
         TimeSpan endOfDaySpan = TimeSpan.FromDays(1).Subtract(TimeSpan.FromMilliseconds(1));
         return time.Date.Add(endOfDaySpan);
     }
-    
 }
-
